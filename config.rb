@@ -149,3 +149,8 @@ configure :build do
 end
 
 Time.zone = 'Tokyo'
+
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  deploy.build_before = true
+end
