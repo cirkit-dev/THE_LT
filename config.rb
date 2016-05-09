@@ -21,7 +21,7 @@ config[:casper] = {
   },
   navigation: {
     "Home" => "/",
-    'CirKit' => '/auhor/cirkit'
+    # 'CirKit' => '/auhor/cirkit'
   }
 }
 
