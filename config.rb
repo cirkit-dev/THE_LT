@@ -5,22 +5,23 @@
 config[:casper] = {
   blog: {
     url: 'http://www.example.com',
-    name: 'Middleman',
-    description: 'Makes developing websites simple.',
+    name: 'LT Log - CirKit',
+    description: '過去に開催したライトニングトークのバックナンバー',
     date_format: '%d %B %Y',
     navigation: true,
     logo: nil # Optional
   },
   author: {
-    name: 'Middleman',
+    name: 'CirKit',
     bio: nil, # Optional
     location: nil, # Optional
-    website: nil, # Optional
+    website: 'http://www.cirkit.jp', # Optional
     gravatar_email: nil, # Optional
-    twitter: nil # Optional
+    twitter: '@cirkit_co' # Optional
   },
   navigation: {
-    "Home" => "/"
+    "Home" => "/",
+    'CirKit' => '/auhor/cirkit'
   }
 }
 
@@ -146,3 +147,5 @@ configure :build do
   ignore 'stylesheets/_*'
   ignore 'stylesheets/vendor/*'
 end
+
+Time.zone = 'Tokyo'
