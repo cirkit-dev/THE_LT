@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LT Log - CirKit: LT</title>
+  <subtitle>Posts tagged with LT</subtitle>
+  <id>http://www.example.com</id>
+  <link href="http://www.example.com"/>
+  <link href="http://www.example.com/tag/lt/feed.xml" rel="self"/>
+  <updated>2016-05-12T00:00:00+09:00</updated>
+  <author>
+    <name>CirKit</name>
+  </author>
+  <entry>
+    <title>第1回CirKitシステムLT会開催しました！</title>
+    <link rel="alternate" href="http://www.example.com/2016/05/12/first-lt/"/>
+    <id>http://www.example.com/2016/05/12/first-lt/</id>
+    <published>2016-05-12T00:00:00+09:00</published>
+    <updated>2016-06-01T00:57:55+09:00</updated>
+    <author>
+      <name>CirKit</name>
+    </author>
+    <summary type="html">＿人人人人人人人＿
+
+＞　突然のLT会　＜
+
+￣Y^Y^Y^Y^Y^Y￣
+
+というわけで、LT会開催しました。その第１回のログです。
+
+発表内容
+
+
+git-plusでAtomからコミットする - @y_temp4
+GITでやらかした時に私が使ったコマンド達 - 菅沼遼平
+Pryを使おうぜ - @Takahiro Ikeda
+Middlemanでの開発 - 西野大地
+
+
+1. git-plusでAtomからコミットする
+
+
+
+Atom使いが、ターミナルを使わずにGitを利用して、開発効率をあげよ</summary>
+  </entry>
+  <entry>
+    <title>第2回CirKitシステムLT会開催しました！</title>
+    <link rel="alternate" href="http://www.example.com/2016/06/03/second-lt/"/>
+    <id>http://www.example.com/2016/06/03/second-lt/</id>
+    <published>2016-06-03T00:00:00+09:00</published>
+    <updated>2016-06-03T13:53:41+09:00</updated>
+    <author>
+      <name>CirKit</name>
+    </author>
+    <summary type="html">どうも@y_temp4です。
+ちょっと遅れてしまいましたが、第2回LT回をやったのでログを残しておきます。
+
+発表内容
+
+
+zshプラグインの紹介 - いつもの人
+モダンなRails開発環境を求めてJSのエコシステムに触れる - @y_temp4
+WebAPIについて最近学んだこと - 垣花仁愛
+非デザイナーが送る、非デザイナー向けデザイン教室 - 近藤豊峰
+
+
+1. zshプラグインの紹介
+
+
+
+シェルをこよなく愛する人が、布教活動のために行ったLTです。
+自分はここであえてfishをオススメ</summary>
+  </entry>
+</feed>
